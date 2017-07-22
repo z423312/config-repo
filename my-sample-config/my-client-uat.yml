@@ -3,3 +3,5 @@ my-config:
   appName: my-app-uat-new
 
   debugMode: true
+
+  demo: 1
